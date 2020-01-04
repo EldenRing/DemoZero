@@ -6,7 +6,7 @@ spring:
     username: root
     password: 123456
   thymeleaf:
-    cache: false
+    cache: false #关闭模板缓存。
   output:
     ansi:
       enabled: ALWAYS #使用彩色日志输出，正式环境去除
