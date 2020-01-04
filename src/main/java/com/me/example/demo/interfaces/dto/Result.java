@@ -19,7 +19,7 @@
 
 package com.me.example.demo.interfaces.dto;
 
-import com.me.example.demo.Infrastructure.common.CommonConstants;
+import com.me.example.demo.Infrastructure.common.constants.CommonConstants;
 import lombok.*;
 import lombok.experimental.Accessors;
 

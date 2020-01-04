@@ -17,7 +17,7 @@
  *
  */
 
-package com.me.example.demo.Infrastructure.common;
+package com.me.example.demo.Infrastructure.common.constants;
 
 /**
  */
