@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+mybatis:
+  type-aliases-package: com.me.example.demo.repository.po
+  configuration:
+    map-underscore-to-camel-case: true  #不需要写mybatis的xml时候开启该配置,开启驼峰转换
+  #config-location: classpath:mybatis/mybatis-config.xml #需要写xml的时候开启该配置
+  #mapper-locations: classpath:mybatis/mapper/*.xml #需要写xml的时候开启该配置
